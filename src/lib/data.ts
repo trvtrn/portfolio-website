@@ -62,13 +62,15 @@ export const projectsData = [
       "A SaaS that allows users chat to an uploaded PDF using a chatbot. There are different levels of subscription plans that unlockes different functionalitites.",
     tags: ["React", "TypeScript", "Next.js", "Prisma", "Tailwind", "Stripe"],
     imageUrl: "/moogi.png",
+    siteUrl: "https://moogi.vercel.app/",
   },
   {
     title: "Gym Landing Page",
     description:
-      "A simple gym landing page made with react and framer motion for a fluid and beautiful user experience.",
+      "A simple static gym landing page made with react and framer motion for a fluid and beautiful user experience.",
     tags: ["React", "Tailwind", "Framer Motion"],
     imageUrl: "/gymLanding.png",
+    siteUrl: "https://evo-gym-landing.vercel.app/",
   },
   {
     title: "Ashurio.",
@@ -76,6 +78,7 @@ export const projectsData = [
       "A digital marketplace where users can buy and sell digital assets like wallpapers, UI icon kits and theme packs.",
     tags: ["React", "Next.js", "TypeScript", "MongoDB", "Tailwind", "Stripe"],
     imageUrl: "/ashurio.png",
+    siteUrl: "https://ashurio.vercel.app/",
   },
 ] as const;
 
