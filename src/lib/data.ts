@@ -78,7 +78,7 @@ export const projectsData = [
       "A digital marketplace where users can buy and sell digital assets like wallpapers, UI icon kits and theme packs.",
     tags: ["React", "Next.js", "TypeScript", "MongoDB", "Tailwind", "Stripe"],
     imageUrl: "/ashurio.png",
-    siteUrl: "https://ashurio.vercel.app/",
+    siteUrl: "https://ashurio-production.up.railway.app",
   },
 ] as const;
 
