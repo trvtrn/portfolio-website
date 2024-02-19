@@ -4,13 +4,11 @@ import "./globals.css";
 import Header from "@/components/Header";
 import ActiveSectionContextProvider from "@/context/active-section-context";
 import { Toaster } from "sonner";
+import { constructMetadata } from "@/lib/utils";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
-  title: "Travolta Tran | Portfolio",
-  description: "Travolta Tran - A Junior Software Engineer",
-};
+export const metadata = constructMetadata();
 
 export default function RootLayout({
   children,
