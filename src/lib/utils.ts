@@ -57,7 +57,7 @@ export function constructMetadata({
       creator: "@trvtrn",
     },
     icons,
-    metadataBase: new URL("https://portfolio-website-three-rouge.vercel.app/"),
+    metadataBase: new URL("https://travolta-tran.vercel.app/"),
     ...(noIndex && {
       robots: {
         index: false,
