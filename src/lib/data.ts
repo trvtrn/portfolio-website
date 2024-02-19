@@ -41,7 +41,7 @@ export const experiencesData = [
     title: "Honours Reserach",
     location: "USYD | Westmead Institute of Medical Research (WIMR)",
     description:
-      "Conducted Research at WIMR alongside leading reserach scientists. My research was focused on alternative treatment for bone infection. Graduated with First Class Honours",
+      "Conducted Research at WIMR alongside leading reserach scientists. My research was focused on alternative treatment for bone infection. Graduated with First Class Honours.",
     icon: React.createElement(CgWorkAlt),
     date: "2021",
   },
