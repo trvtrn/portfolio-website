@@ -78,7 +78,7 @@ function Intro() {
         </Link>
 
         <a
-          href="/CV.pdf"
+          href="/travolta_tran_resume.pdf"
           download
           className="flex items-center gap-2 rounded-full bg-white px-7 py-3 outline-none focus:scale-110 hover:scale-110 active:scale-105 transition group cursor-pointer
           border border-black/10"
